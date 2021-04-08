@@ -1,0 +1,41 @@
+.card {
+    margin-top: 50px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+body {
+    background: url(bgimg.jpg);
+    background-size: 100%;
+    width: 100%;
+}
+
+.card-text {
+    margin-left: 25%;
+}
+
+.card-title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    text-align: center;
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00A0C6;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.card-body {
+    background-color: rgb(253, 226, 190);
+    border-color: transparent;
+    box-shadow: rgb(253, 226, 190);
+}
